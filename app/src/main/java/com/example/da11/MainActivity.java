@@ -21,5 +21,14 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
+
 }
 //j
+
+    //hugftrgyhhgyfhuugy
+    //fdhdfkhgfdjgdfjgdjhfgjhk
+    //thg học vô dụng :)0
+    //vắt sữa hiểu
+
+//iakedufhcxzkvfjh
+
